@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\bin\Debug\netcoreapp3.1\T02. Beaver at Work.exe
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\bin\Debug\netcoreapp3.1\T02. Beaver at Work.deps.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\bin\Debug\netcoreapp3.1\T02. Beaver at Work.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\bin\Debug\netcoreapp3.1\T02. Beaver at Work.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\bin\Debug\netcoreapp3.1\T02. Beaver at Work.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\bin\Debug\netcoreapp3.1\T02. Beaver at Work.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\obj\Debug\netcoreapp3.1\T02. Beaver at Work.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\obj\Debug\netcoreapp3.1\T02. Beaver at Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\obj\Debug\netcoreapp3.1\T02. Beaver at Work.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\obj\Debug\netcoreapp3.1\T02. Beaver at Work.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\obj\Debug\netcoreapp3.1\T02. Beaver at Work.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\obj\Debug\netcoreapp3.1\T02. Beaver at Work.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\obj\Debug\netcoreapp3.1\T02. Beaver at Work.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exam\T02. Beaver at Work\obj\Debug\netcoreapp3.1\T02. Beaver at Work.genruntimeconfig.cache
